@@ -1,0 +1,1 @@
+yarn prod && yarn build:linux

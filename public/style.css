@@ -1,0 +1,11 @@
+*, *::before, *::after {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
